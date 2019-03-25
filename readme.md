@@ -1,4 +1,4 @@
-# cz-emoji
+# cz-emoji-clean
 
 > Commitizen adapter formatting commit messages using emojis.
 
@@ -6,28 +6,29 @@
 
 ```sh
 ? Select the type of change you are committing: (Use arrow keys)
-❯ feature   🌟  A new feature
-  fix       🐞  A bug fix
-  docs      📚  Documentation change
-  refactor  🎨  A code refactoring change
-  chore     🔩  A chore change
+❯ init      🎉  Initial Commit.
+  feat      ✨  A new feature.
+  fix       🐛  A bug fix.
+  refac     ♻️  Refactoring code.
+  docs      📝  Documentation change.
+  style     🎨  Improving structure / format of the code.
 ```
 
 ## Install
 
-__Globally__
+**Globally**
 
 ```bash
-npm install --global cz-emoji
+npm install --global matAlmeida/cz-emoji-clean
 
 # set as default adapter for your projects
 echo '{ "path": "cz-emoji" }' > ~/.czrc
 ```
 
-__Locally__
+**Locally**
 
 ```bash
-npm install --save-dev cz-emoji
+npm install --save-dev matAlmeida/cz-emoji-clean
 
 # set as default adapter for your projects
 "config": {
