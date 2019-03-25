@@ -6,16 +6,10 @@
     "name": "init"
   },
   {
-    "emoji": "🎨",
-    "code": ":art:",
-    "description": "Improving structure / format of the code.",
-    "name": "style"
-  },
-  {
-    "emoji": "⚡️",
-    "code": ":zap:",
-    "description": "A code change that improves performance.",
-    "name": "perf"
+    "emoji": "✨",
+    "code": ":sparkles:",
+    "description": "A new feature.",
+    "name": "feat"
   },
   {
     "emoji": "🐛",
@@ -24,10 +18,10 @@
     "name": "fix"
   },
   {
-    "emoji": "✨",
-    "code": ":sparkles:",
-    "description": "A new feature.",
-    "name": "feature"
+    "emoji": "♻️",
+    "code": ":recycle:",
+    "description": "Refactoring code.",
+    "name": "refac"
   },
   {
     "emoji": "📝",
@@ -36,10 +30,10 @@
     "name": "docs"
   },
   {
-    "emoji": "👷",
-    "code": ":construction_worker:",
-    "description": "Changes that affect the build system or external dependencies.",
-    "name": "ci"
+    "emoji": "🎨",
+    "code": ":art:",
+    "description": "Improving structure / format of the code.",
+    "name": "style"
   },
   {
     "emoji": "🚀",
@@ -54,10 +48,10 @@
     "name": "test"
   },
   {
-    "emoji": "♻️",
-    "code": ":recycle:",
-    "description": "Refactoring code.",
-    "name": "refac"
+    "emoji": "🔀",
+    "code": ":twisted_rightwards_arrows:",
+    "description": "Merging branches.",
+    "name": "merge"
   },
   {
     "emoji": "✏️",
@@ -66,16 +60,22 @@
     "name": "typo"
   },
   {
-    "emoji": "🔀",
-    "code": ":twisted_rightwards_arrows:",
-    "description": "Merging branches.",
-    "name": "merge"
-  },
-  {
     "emoji": "🍱",
     "code": ":bento:",
     "description": "Adding or updating assets.",
     "name": "assets"
+  },
+  {
+    "emoji": "⚡️",
+    "code": ":zap:",
+    "description": "A code change that improves performance.",
+    "name": "perf"
+  },
+  {
+    "emoji": "👷",
+    "code": ":construction_worker:",
+    "description": "Changes that affect the build system or external dependencies.",
+    "name": "ci"
   },
   {
     "emoji": "👥",
